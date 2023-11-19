@@ -1,0 +1,894 @@
+@media(max-width:1199px){
+
+
+    /* top_header / header_section */
+
+
+   /* banner_section */
+   .femail_img {
+       
+       right: 10px;
+       width: 50%;
+   }
+   
+   .banner_text h3{
+       font-size: 44px;
+   }
+   .banner_section{
+       min-height: 76vh;
+   }
+
+   /* Welcome_Plus */
+.welcome_img{
+   width: 46%;
+   left: 30px;
+}
+
+    /* Meet_Doctors */
+   
+
+   /* Services */
+
+
+   /* Pricing */
+
+
+   /* Clients */
+
+
+   /* information */
+
+   /* footer */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   @media(max-width:991px){
+
+       /* top_header */ /* header_section */
+       
+       
+       .top_header {
+               
+           display: none;
+       }
+       .logo{
+           display: contents;
+       }
+       .navbar-nav {
+               
+       display: flex;
+               
+       flex-wrap: wrap;
+               
+       flex-direction: row;
+       }
+   
+   
+   
+   
+       .Appointment {
+           display: inline-block;
+           position: absolute;
+           top: 26px;
+           right: 12%;
+           padding: 6px 30px;
+           font-size: 16px;
+           transition: .5s all ease-in-out;
+       } 
+       
+   
+   
+   
+   
+   
+       .nav-item{
+           width: 28%;
+       }
+       .top-header_content{
+           display: contents;
+           display: flex;
+       }
+   
+       .hight_4{
+           padding: 0;
+           margin-bottom: 10px;
+       } 
+       .top-header_text h3 {
+           font-size: 20px;
+       }
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+       
+       /* banner_section */
+       
+       .banner_section {
+           min-height: 62vh;
+           
+       }
+       
+       .welcome_img{
+           display: none;
+       }
+       .hight_1{
+           
+       }
+       
+       .banner_text {
+       
+           position: absolute;
+           top: -24%;
+       }
+       .banner_text h2 {
+           font-size: 42px;
+           display: flex;
+           display: table-row;
+       }
+       .banner_text p {
+           
+       padding-bottom: 0;
+           
+       width: 68%;
+       }
+       .banner_text h3 {
+       
+       margin-top: 15px;
+       
+       font-size: 44px;
+       }
+       .button {
+           margin-top: 30px;
+       }
+       
+       
+       /* Welcome_Plus */
+       .welcome_top {
+           margin-top: 50px;
+       }
+       .Welcome_Plus {
+           
+           min-height: 85vh;
+       }
+       
+       
+       
+       /* Meet_Doctors */
+       
+       
+       
+       .Doctors_info h4 {
+           font-size: 20px;
+           padding-top: 5px;
+       }
+       .Doctors_info span {
+           
+           margin-top: 10px;
+       }
+       .Meet_Doctors {
+           
+           padding-bottom: 25px;
+       }
+   
+   
+       /* Services */
+   
+       .Services_contents {
+           padding: 13px;
+           border: 5px solid #ebebeb;
+           
+       }
+       .hight_3 {
+           padding: 0px 0px;
+       }
+       .Root{
+           margin-top: 20px;
+       }
+       /* Pricing */
+   
+       .top_box h3 {
+           font-size: 24px;
+       }
+       .top_box {
+           padding: 14px 0;
+       }
+   
+       .top_box p {
+           font-size: 12px;
+       }
+       .med_box h2 {
+           font-size: 42px;
+       }
+       .med_box {
+           
+           padding: 18px 0;
+       }
+       .down_box p {
+           font-size: 16px;
+           padding: 20px 0;
+       }
+       .Pricing {
+           
+           padding-bottom: 40px;
+       }
+   
+   
+   
+       /* Clients */
+   
+   
+       
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+       /* information */
+   
+       .hight_2{
+           margin: auto;
+           margin-top: -25px;
+       }
+       .Recent_section h5 {
+           
+           margin-bottom: 12px;
+       }
+   
+       .information_icon {
+           
+           padding: 10px 0;
+           margin: auto;
+           justify-content: space-evenly;
+       }
+       .information_News p {
+           
+           margin-bottom: 15px;
+       }
+       .form {
+           margin-top: 23px;
+           
+       }
+       .information_News h4 {
+           
+           margin-bottom: 15px;
+       }
+   
+       /* footer */
+   
+       .footer_section {
+           padding: 20PX;
+           
+       }
+   
+   
+   
+   
+   
+   
+   
+   
+           @media(max-width:767px){
+   
+               /* top_header */ /* header_section */
+               
+               .top-header_text {
+                   margin-right: 10px;
+               }
+               .top-header_text h3 {
+                   font-size: 18px;
+               }
+               .top-header_text h5 {
+                   font-size: 12px;
+               }
+   
+   
+   
+               .Appointment {
+                   display: inline-block;
+                   position: absolute;
+                   top: 25px;
+                   right: 63px;
+                   padding: 6px 30px;
+                   font-size: 16px;
+                   transition: .5s all ease-in-out;
+               } 
+   
+   
+   
+   
+   
+               .top-header_right i {
+                   font-size: 20px;
+                   
+               }
+   
+   
+   
+   
+               /* banner_section */
+               .banner_section {
+                   
+                   text-align: -webkit-center;
+               }
+               
+           
+               
+               .banner-carousel .owl-nav .owl-prev span, .clients-carousel .owl-nav .owl-prev span {
+                   display: none;
+               }
+               .banner-carousel .owl-nav .owl-next span, .clients-carousel .owl-nav .owl-next span {
+                   display: none;
+               } 
+               .femail_img {
+                   position: static;
+                   width: 66%;
+                   margin: auto;
+                   margin-top: 20px;
+               }
+               .banner_text {
+                   position: static;
+                   margin-top: 0;
+                   margin-bottom: 50px;
+               }
+               .hight {
+                   display: flex;
+                   min-height: 63vh;
+                   flex-direction: column-reverse;
+               } 
+   
+   
+   
+   
+               /* Welcome_Plus */
+               .welcome_top h3 {
+                   font-size: 32px;
+               }
+               .welcome_top {
+                   
+                   text-align: center;
+                   margin-top: 40px;
+               }
+               .welcome_top p {
+                   
+                   text-align: center;
+               }
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+               /* Meet_Doctors */
+   
+               .Meet_Doctors_top h2 {
+                   
+                   margin-top: 28px;
+               }
+               .Meet_Doctors_top p {
+                   
+                   margin-bottom: 30px;
+               }
+   
+   
+               /* Services */
+   
+               .Services_top {
+                   
+                   padding-bottom: 20px;
+               }
+               .Cleaning{
+                   margin-top: 25px;
+               }
+               .Services {
+                   padding-bottom: 32px;
+               }
+   
+   
+   
+   
+   
+               /* Pricing */
+               .top_box h3 {
+                   font-size: 36px;
+               }
+               .top_box p {
+                   font-size: 14px;
+               }
+               .med_box h2 {
+                   font-size: 48px;
+               }
+               .down_box p {
+                   
+                   padding: 18px 50px;
+               }
+               .btn_sing_up {
+                   
+                   margin-top: 0px;
+               }
+               .Pricing_box {
+                   
+                   margin-bottom: 25px;
+               }
+               .Pricing {
+                   padding-bottom: 20px;
+               }
+   
+               /* Clients */
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+               /* information */
+   
+               .information_plus h4 {
+                   
+                   font-weight: 600;
+               }
+               .information_plus p {
+                   
+                   margin: 16px 0;
+                   
+               }
+               .information_Recent {
+                   margin-top: 25px;
+               }
+   
+               .information_icon ul li i {
+                   width: 40px;
+                   height: 40px;
+                   line-height: 55px;
+               }
+               .information_icon a {
+                   font-size: 20px;
+               }
+               .information_icon ul li {
+                   width: 40px;
+                   height: 40px;
+               }
+               .information_icon {
+                   
+                   align-items: center;
+               }
+   
+   
+   
+   
+   
+   
+   
+               @media(max-width:575px){
+   
+                   /* top_header / header_section */
+                   .top-header_content {
+                       
+                       display: inline-flex;
+                       width: 100%;
+                   }
+                   .top-header_right {
+                       
+padding-left: 10px;
+                       
+margin-bottom: 6px;
+                   }
+                   .Appointment {
+                       
+right: 7%;
+                       
+bottom: 8%;
+                       
+top: auto;
+                       
+padding: 10px 40px;
+                   }
+   
+                   /* banner_section */
+                   .femail_img {
+                       width: 53%;
+                       margin-top: 35px;
+                   }
+                   .banner_text h2 {
+                       font-size: 36px;
+                   }
+                   .banner_text h3 {
+                       margin-top: 10px;
+                       font-size: 38px;
+                   }
+                   .banner_text p {
+                       
+                       width: 80%;
+                       padding-top: 10px;
+                   }
+                   .banner_text {
+                       
+                       margin-bottom: 40px;
+                   }
+                   .top-header_right i {
+                       
+/* display: none; */
+                   }
+                   .top-header_content {
+                       display: contents;
+                       margin-left: 15px;
+                   }
+                   .hight_4 {
+                       padding: 0;
+                       margin-bottom: 15px;
+                   }
+   
+   
+   
+   
+                   .top-header_text h3 {
+                       font-size: 22px;
+                       display: none;
+                   }
+                   .top-header_text h5 {
+                       font-size: 14px;
+                   }
+   
+                   /* Welcome_Plus */
+                   .hight_5{
+                       width: 46%;
+                       margin-left: 14px;
+                   }
+   
+                    /* Meet_Doctors */
+                   .Meet_Doctors {
+                       padding-bottom: 8px;
+                   }
+   
+                    /* Services */
+                   .Services_top {
+                       
+                       padding-top: 20px;
+                   }
+                   .hight_3 {
+                       
+                       width: 47%;
+                       margin: 5px 5px;
+                       margin-left: 8px;
+                   }
+   
+                    /* Pricing */
+                   .Pricing_top {
+                       text-align: center;
+                       padding: 30px 38px;
+                   }
+   
+                    /* Clients */
+   
+   
+                    /* information */
+                   .information_plus {
+                       margin-top: 40px;
+                       width: 90%;
+                       margin: auto;
+                       margin-top: 25px;
+                   }
+                   .information_Recent {
+               
+                       width: 90%;
+                       margin: auto;
+                       margin-top: 25px;
+                   }
+                   .hight_2 {
+                       width: 90%;
+                       margin: auto;
+   
+                       margin-top: -18px;
+                   }
+                    /* footer */
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+                    
+                   @media(max-width:432px){
+   
+                       .hight_3 {
+                           width: 49%;
+                            margin:0; 
+                           margin-left: 0px; 
+                       }
+   
+   
+   
+   
+                       
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+                       /* @media(max-width:320px){
+   
+                           /* top_header / header_section */
+                           .logo_pick {
+                               padding: 5px 0;
+                               padding-top: 10px;
+                           }
+                           .nav-item {
+                               width: 18%;
+                           }
+                           .Appointment {
+                               display: inline;
+                               bottom: 0;
+                               top: auto;
+                               right: 28%;
+                               font-size: 14px;
+                               padding: 7px 23px;
+                               transition: 30s all ease-in;
+                               transition: .1s all ease-out;
+                           }
+                           .top-header_right i {
+                               display: contents;
+                           }
+                           .top-header_text h3 {
+                               
+                               display: none;
+                           }
+                           .top-header_content {
+                               display: block;
+                               
+                           }
+                           .top-header_text {
+                               margin-right: 0px;
+                               margin-left: 15px;
+                               margin-bottom: 10px;
+                           }
+                           .hight_4 {
+                               
+                               margin-bottom: 37px;
+                           }
+       
+       
+                       /* banner_section */
+                       .banner_text h2 {
+                           font-size: 26px;
+                       }
+                       .banner_text h3 {
+                           
+                           font-size: 28px;
+                       }
+                       .banner_text p {
+                           width: 95%;
+                           
+                       }
+                       .button {
+                           margin-top: 15px;
+                       }
+                       .banner_text {
+                           margin-bottom: 30px;
+                       }
+                       .banner-carousel .owl-dots {
+                           
+                           bottom: 0px;
+                       }
+                       .banner-carousel .owl-dots .owl-dot span {
+                           
+                           width: 6px;
+                           height: 6px;
+                           
+                       }
+       
+                       /* Welcome_Plus */
+                       .hight_5 {
+                           width: 100%;
+                           margin-left: 0px;
+                       }
+       
+                        /* Meet_Doctors */
+                       .foma {
+                           padding: 0px;
+                           width: 30px;
+                       }
+                       .Meet_Doctors_top h2 {
+                           font-size: 30px;
+                       }
+                       .Meet_Doctors_top p {
+                           
+                           width: 95%;
+                           margin: auto;
+                           margin-bottom: 30px;
+                       }
+                       
+       
+                        /* Services */
+                       .foma_2 {
+                           width: 40px;
+                       }
+                       .hight_3 {
+                           width: 100%;
+                           /* margin: 10px 0px; */
+                           margin-left: 0px;
+                       }
+       
+                       
+                       .Services_contents {
+                           padding: 5px;
+                           border: 5px solid #ebebeb;
+                           width: 90%;
+                       }
+                       .contents h3 {
+                           font-size: 20px;
+                       }
+                       .cont p {
+                           font-size: 14px;
+                       }
+                       .foma-1{
+       
+                       }
+                       .foma-1 {
+                           width: 25px;
+                           height: 26px;
+                       }
+       
+                        /* Clients */
+                       
+       
+       
+                        /* Pricing */
+                       .top_box h3 {
+                           font-size: 32px;
+                       }
+                       .Pricing_top h3 {
+                           font-size: 30px;
+                           
+                       }
+                       .down_box p {
+                           padding: 18px 0px;
+                           font-size: 16px;
+                       }
+                       .top_box p {
+                           font-size: 12px;
+                       }
+       
+       
+       
+                        /* information */
+                       .Recent_section h5 {
+                           font-size: 12px;
+                           margin-bottom: 7px;
+                       }
+                       .Recent_section h6 {
+                           font-size: 12px;
+                           
+                           margin-top: 10px;
+                       }
+                       .Follow{
+                           display: none;                }
+       
+                        /* footer */
+                       .footer_section a {
+                           
+                           font-size: 9px;
+                       }
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+                       } */
+                    }
+   
+   
+                   
+   
+   
+   
+               }
+   
+   
+   
+   
+       }
+   
+   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               /* top_header / header_section */
+
+
+               /* banner_section */
+
+
+               /* Welcome_Plus */
+
+
+                /* Meet_Doctors */
+           
+
+                /* Services */
+
+
+                /* Pricing */
+
+
+                /* Clients */
+
+
+                /* information */
+
+                /* footer */
+
